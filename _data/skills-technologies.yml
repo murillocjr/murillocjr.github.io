@@ -1,0 +1,30 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Software Architecture
+  weight: 5
+
+- name: iOS
+  weight: 4
+
+- name: Android
+  weight: 4
+    
+- name: OpenCV
+  weight: 5
+
+- name: Tesseract OCR
+  weight: 3
+
+- name: Neural Networks
+  weight: 4
+
+- name: Convolutional Filters
+  weight: 4
+
+- name: NDK
+  weight: 2

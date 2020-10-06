@@ -5,29 +5,26 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Software Architecture
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
+- name: iOS
   weight: 4
 
-- name: Node
-  weight: 1
+- name: Android
+  weight: 4
+    
+- name: OpenCV
+  weight: 5
 
-- name: Flutter
-  weight: 2
-
-- name: Express
+- name: Tesseract OCR
   weight: 3
 
-- name: Django
-  weight: 1
-
-- name: Spring
-  weight: 2
-
-- name: Rails
+- name: Neural Networks
   weight: 4
+
+- name: Convolutional Filters
+  weight: 4
+
+- name: NDK
+  weight: 2

@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Jorge Murillo Curasi
 # description: This will be meta HTML tag content. This can be ignored.
-description: Mathematician & Software Architect/Developer
+description: Mathematician & Software Architect
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: ""
@@ -14,7 +14,7 @@ baseurl: ""
 username: Jorge Murillo
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Mathematician & Software Architect/Developer
+typing_text: Mathematician & Software Architect
 # email: Your E-Mail address for the email button.
 email: murillo.cjr@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Mathematician, Software Architect/developer, Research Scientist on AI & Machine Learning. Lead iOS architect for a nation wide finantial institucion with several Apps and over 500 thousand users. Research and develop Image Recognition applications like Obstacle Detection, Documents Capture and OCR interpretation; also NLP projects involving Topic Modeling and Semantic Mapping.
+about_me_description: Mathematician, Software Architect & Developer, Research Scientist on AI & Machine Learning. Lead iOS architect for a nationwide financial institution with several Apps and over 500 thousand users. Implemented Image Recognition applications like Obstacle Detection, Documents Capture, and OCR interpretation; also NLP projects involving Topic Modeling and Semantic Mapping.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -48,7 +48,7 @@ skills_title: Skills
 # show_timeline_card:
 # > setting this to true, will display the Timeline section
 # > setting this to false, will omit the Timeline section
-show_timeline_card: true
+show_timeline_card: false
 # timeline_title: The will be displayed as the title in the Timeline section
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
@@ -86,7 +86,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: murillocjr/murillocjr.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -110,7 +110,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "UA-49256786-4"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 

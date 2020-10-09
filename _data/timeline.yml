@@ -19,62 +19,45 @@
 
 - title: Artificial Intelligence Nanodegree
   title-url: https://confirm.udacity.com/UZPCTGWX
-  date: 
-  subtitle: Udacity
-  tags:
-    - tag: Python
-    - tag: AI
-    - tag: Machine Learning
+  date: Udacity
   timeline-side: left
 
 - title: Certificate for The Analytics Edge
   title-url: https://courses.edx.org/certificates/5434164cb7634eb1b97c794fdf78709d
-  date: 
-  subtitle: edX
-  tags:
-    - tag: Statistics
-    - tag: R
-    - tag: Data Science
+  date: edX
   timeline-side: right
 
 - title: Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/TBXBAEUPYJPP
-  date:
-  subtitle: Coursera
+  date: Coursera
   timeline-side: left
 
 - title: Launching into Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/8CX6X3TTR4BY
-  date: 
-  subtitle: Google/Coursera
+  date: Google/Coursera
   timeline-side: right
 
 - title: How Google does Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/H9JZQKEPAJ96
-  date: 
-  subtitle: Google/Coursera
+  date: Google/Coursera
   timeline-side: left
 
 - title: Intro to TensorFlow
   title-url: https://www.coursera.org/account/accomplishments/verify/E2RGWUKXKFG7
-  date: 
-  subtitle: Google/Coursera
+  date: Google/Coursera
   timeline-side: right
 
 - title: Machine Learning with TensorFlow on Google Cloud Platform Specialization
   title-url: https://www.coursera.org/account/accomplishments/specialization/WACQFCNLBFGY
-  date: 
-  subtitle: Google/Coursera
+  date: Google/Coursera
   timeline-side: left
 
 - title: Feature Engineering
   title-url: https://www.coursera.org/account/accomplishments/verify/YXDQSA9DGJNZ
-  date: 
-  subtitle: Google/Coursera
+  date: Google/Coursera
   timeline-side: right
 
 - title: Art and Science of Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/MVK8SGXDBH9V
-  date: 
-  subtitle: Google/Coursera
+  date: Google/Coursera
   timeline-side: left

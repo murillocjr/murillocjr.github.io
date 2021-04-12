@@ -7,57 +7,97 @@
 
 # Example of a timeline entry
 # - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
+  # title-url: https://example.com/
+  # date: Sep 2019 - Present
+  # subtitle: Fullstack Dedeeveloper
+  # tags:
+  # - tag: React
+  # - tag: Javascript
+  # - tag: Ruby
+  # - tag: Rails
+  # timeline-side: right
 
 - title: Artificial Intelligence Nanodegree
   title-url: https://confirm.udacity.com/UZPCTGWX
   date: Udacity
+  tags:
+  - tag: Tensorflow
+  - tag: Machine Learning
+  - tag: Cloud Computing
+  subtitle: Generalize a ML model using Regularization techniques; Tune batch size and learning rate for better model performance\rOptimize a ML model; Apply the concepts in TensorFlow code.
   timeline-side: left
 
 - title: Certificate for The Analytics Edge
   title-url: https://courses.edx.org/certificates/5434164cb7634eb1b97c794fdf78709d
   date: edX
+  subtitle: Understanding of many different analytics methods, including linear regression, logistic regression, CART, clustering, and data visualization; How to implement all of these methods in R; Applied understanding of mathematical optimization and how to solve optimization models in spreadsheet software.
+  tags:
+  - tag: R
+  - tag: Analytic methods
+  - tag: Data visualization
   timeline-side: right
 
 - title: Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/TBXBAEUPYJPP
   date: Coursera
+  subtitle: Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks); Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning); Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI).
+  tags:
+  - tag: Logistic Regression
+  - tag: Artificial Neural Network
   timeline-side: left
 
 - title: Launching into Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/8CX6X3TTR4BY
   date: Google/Coursera
+  subtitle: Identify why deep learning is currently popular; Optimize and evaluate models using loss functions and performance metrics; Mitigate common problems that arise in machine learning; Create repeatable and scalable training, evaluation, and test datasets
+  tags:
+    - tag: Tensorflow
+    - tag: Bigquery
+    - tag: Data Cleansing
   timeline-side: right
 
 - title: How Google does Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/H9JZQKEPAJ96
   date: Google/Coursera
+  subtitle: Frame a business use case as a machine learning problem; Gain a broad perspective of machine learning and where it can be used; Convert a candidate use case to be driven by machine learning; Recognize biases that machine learning can amplify.
+  tags:
+    - tag: Google Cloud Platform
+    - tag: Bigquery
   timeline-side: left
 
 - title: Intro to TensorFlow
   title-url: https://www.coursera.org/account/accomplishments/verify/E2RGWUKXKFG7
   date: Google/Coursera
+  subtitle: Use the Keras Sequential and Functional APIs for simple and advanced model creation; Design and build a TensorFlow 2.x  input data pipeline; Use the tf.data library to manipulate data and large datasets; Train, deploy, and productionalize ML models at scale with Cloud AI Platform
+  tags:
+    - tag: Build Input Data Pipeline
+    - tag: Keras
+    - tag: Python
   timeline-side: right
 
 - title: Machine Learning with TensorFlow on Google Cloud Platform Specialization
   title-url: https://www.coursera.org/account/accomplishments/specialization/WACQFCNLBFGY
   date: Google/Coursera
+  subtitle: Write distributed machine learning models that scale in Tensorflow, scale out the training of those models; Convert raw data to features in a way that allows ML to learn important characteristics from the data and bring human insight to bear on the problem; Incorporate the right mix of parameters that yields accurate, generalized models and knowledge of the theory to solve specific types of ML problems. Experiment with end-to-end ML, starting from building an ML-focused strategy and progressing into model training, optimization, and productionalization with hands-on labs using Google Cloud Platform.
+  tags:
+    - tag: Feature Engineering
+    - tag: Cloud Computing
+    - tag: Tensorflow 
   timeline-side: left
 
 - title: Feature Engineering
   title-url: https://www.coursera.org/account/accomplishments/verify/YXDQSA9DGJNZ
   date: Google/Coursera
+  subtitle: Compare the key required aspects of a good feature; Understand how to preprocess and explore features with Cloud Dataflow and Cloud Dataprep; Combine and create new feature combinations through feature crosses; Understand and apply how TensorFlow transforms features
+  tags:
+    - tag: Tensorflow
   timeline-side: right
 
 - title: Art and Science of Machine Learning
   title-url: https://www.coursera.org/account/accomplishments/verify/MVK8SGXDBH9V
   date: Google/Coursera
+  subtitle: Generalize a ML model using Regularization techniques; Tune batch size and learning rate for better model performance; Optimize a ML model; Apply the concepts in TensorFlow code.
+  tags:
+    - tag: Cloud Computing
+    - tag: Tensorflow
   timeline-side: left

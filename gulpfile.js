@@ -65,7 +65,8 @@ function scriptsVendors() {
 function browserSyncServe(done) {
   browserSync.init({
     server: '_site',
-    port: 4000
+    port: 4000,
+    open: false
   });
   done();
 }
